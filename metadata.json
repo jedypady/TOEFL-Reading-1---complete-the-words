@@ -1,0 +1,5 @@
+{
+  "name": "TOEFL Word Completion Practice",
+  "description": "An interactive tool to practice for the TOEFL 'Complete the Words' task. It generates new academic passages on demand, allowing users to fill in the blanks and check their answers.",
+  "requestFramePermissions": []
+}
